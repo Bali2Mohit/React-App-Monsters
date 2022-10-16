@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import {useState, useEffect} from 'react';
 import CardList from "./components/card-list/card-list.component";
 import "./App.css";
